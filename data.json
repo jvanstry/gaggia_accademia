@@ -1,0 +1,125 @@
+{
+    "productName": "Gaggia Accademia Espresso Machine",
+    "imagesLocation": "Gaggia_Accademia",
+    "brand": "Gaggia",
+    "rating": {
+        "value": 5,
+        "numberReviews": 72
+    },
+    "breadCrumbParents": ["Home", "Espresso Machines", "Super Automatic"],
+    "price": "$1,599.00",
+    "relatedProducts": ["Saeco Exprelia Evo Super-Automatic Espresso Machine", "Gaggia Anima Prestige Super-Automatic Espresso Machine",
+      "Saeco Gran Baristo Super-Automatic Espresso Machine", "Delonghi Gran Dama ESAM 6620 Espresso Machine",
+      "Jura Impressa C9 One Touch", "Jura Impressa J9 One Touch TFT in Brilliant Silver"],
+    "overview": {
+       "Product Description": "Coffee on demand has never been easier. With the Gaggia Accademia, seven dedicated drink buttons for espresso, caffe, caffe lungo, cappuccino, latte macchiato, and hot water mean that great tasting beverages are just moments away. The machine can also memorize your preferences for truly customized drinks.\nThis one-stop coffee center features an integrated ceramic burr grinder to deliver freshly ground coffee every time. The Accademia also comes equipped with a bypass doser, so you’ll be able to effortlessly brew pre-ground or brew decaf, pre-ground, or specialty coffee. The grinder and bypass doser combo will give you the flexibility needed to accommodate multiple users and a variety of drink preferences.\nThe smartly designed Accademia is a latte and cappuccino drinker’s dream, as it features a unique Milk Management System with a detachable carafe. Since the milk circuit is detachable, milk never actually enters the Accademia during the steaming/frothing process. You’ll never have to worry about old milk contaminating your machine. As a matter of convenience, the milk carafe can be disconnected and stored in the fridge until you’re ready to brew.\nFor those who love to entertain, the Gaggia Accademia’s intuitive interface offers a big advantage; it’s so simple to use your guests can make their own beverages! On top of its impressive features, the Gaggia Accademia is a modern, attractive machine that would look great in any kitchen. It features a contemporary stainless steel front panel punctuated by a bright display and intuitive push-button controls. The Gaggia Accademia is the ideal companion for the busy coffee lover. (Dimensions: 15.2\"H x 11\"W x 16.8\"D - Weight: 45lbs.)",
+        "Programmable Options": "The Gaggia Accademia has seven fully programmable drink options to deliver tailor-made espresso, caffe, caffe lungo, cappuccino, latte macchiato, and more. Beverage temperature, strength, and volume can be preset to your specifications. The same goes for milk selections, which allow you to choose from minimal, normal, or no froth options.",
+        "Brewing Benefits": "The Accademia has a 15-bar pump and two powerful stainless steel boilers, which will let you to alternate between brewing and frothing without any down time. Additionally, Gaggia’s unique pre-brewing cycle infuses coffee grounds with hot water to help extract the flavor and aroma of your drink. The brew group is detachable for quick, easy cleaning and maintenance. The Accademia has a height-adjustable telescopic coffee dispenser, with a max height of 6.5” to allow you to accommodate a variety of cups, mugs, and glasses.",
+        "Grinder and Bypass Doser": "This unit has a heavy-duty ceramic burr grinder, along with a double-lid, aroma saving bean hopper. Seven grind settings allow you to exercise a fair amount of control over the grinding process. The Accademia also has a bypass doser to cater to pre-ground/decaf drinkers. Both the grinder and bypass doser are accessible through the top of the machine.",
+        "Steaming and Frothing": "This Gaggia super automatic has an automated one-touch Milk Management System that can deliver steamed or frothed milk directly into your cup, depending on the chosen drink. An external milk circuit ensures that milk does not enter the machine and the detachable carafe can be stored in the fridge for your convenience. An automatic cleaning cycle rinses the milk circuit after each use, to ensure that it is free of clogs and contaminants. Should you wish to steam/froth manually, you’ll be able to do so, as the Accademia has a steam wand/water dispenser.",
+        "Water Management": "The Accademia has a generous 1.7-liter water reservoir; this unit comes with a four-step Mavea Water Filter to prevent scale and mineral build up. Users can control water hardness to ensure great tasting coffee.",
+        "Maintenance": "The stainless-steel front panel of the machine opens to reveal the removable brew group and dregs drawer. Both can be easily detached for routine cleaning and maintenance. The Gaggia Accademia has an alert system that will notify you if the dregs drawer or drip tray need to be emptied, or if the bean hopper needs to be refilled. The display screen will also warn you, if the machine needs to be descaled."
+    },
+    "specs": {
+        "Misc Data": {
+            "Manufacturer": "Gaggia",
+            "Model": "1003380"
+        },
+        "Specifications": {
+            "Dimension - Width (Inches)": 11,
+            "Dimension - Height (Inches)": 15.2,
+            "Dimension - Depth (Inches)": 16.8,
+            "Weight (lbs)": 43,
+            "Watts": 1500,
+            "Volts": 120
+        },
+        "Housing": {
+            "Housing Materials": "Stainless Steel/Plastic",
+            "Bean Hopper Material": "Plastic",
+            "Drip Tray Material": "Plastic",
+            "Drip Tray Cover Material": "Stainless Steel",
+            "Removable Hopper?": "No",
+            "Drip Tray Capacity (Oz)": 10,
+            "Ground Coffee Container Material": "Plastic",
+            "Drain Line Adaptable?": "No",
+            "Spent Coffee Capacity (Dregs Drawer)": 15,
+            "Easy to Rotate?": "No",
+            "Tall Legs?": "No",
+            "Power Cord Length (Inches)": 36
+        },
+        "Cup Height": {
+            "Adjustable Height?": "Yes",
+            "High (Inches)": 6.5,
+            "Low (Inches)": 3
+        },
+        "One Touch Cappuccino": {
+            "One Touch Cappuccino?": "Yes",
+            "One Touch Cappuccino Or Milk Carafe?": "Milk Carafe",
+            "Adjustable Froth Quality?": "Yes",
+            "Height (Inches)": 5.5,
+            "Separate Manual Steam Wand?": "Yes",
+            "Programmable?": "Yes",
+            "Milk Carafe Type": "Plastic Attachable",
+            "Self-Cleaning?": "Yes",
+            "Dishwasher Safe?": "No"
+        },
+        "Frothing Wand": {
+            "Material": "Plastic",
+            "Steam Wand Style": "Commercial Style",
+            "Wand Movement": "Pivot Side to Side",
+            "Usable Length (Inches)": 2.5,
+            "Height Off Counter (Inches)": 5,
+            "Optional Cappucinotore?": "No",
+            "Number of Holes": 1,
+            "No Burn Wand?": "Yes",
+            "Optional Steam Tips or Wands?": "No"
+        },
+        "Water Source": {
+            "Reservoir Or Plumbed": "Reservoir",
+            "Water Filter Type": "Mavea",
+            "Reservoir Capacity (Oz)": 54,
+            "Reservoir Material": "Plastic",
+            "Reservoir Access": "Top",
+            "Reservoir Removable?": "Yes",
+            "Water Level Visible?": "No",
+            "Water Filter": "Mavea" 
+        },
+        "Controls": {
+            "Adjustable Coffee Strength?": "Yes",
+            "Number of Grid Settings": 10,
+            "Type of Controls": "Push Button",
+            "Display Type": "LCD",
+            "Programmable Brewing?": "Yes",
+            "Temperature Control?": "Yes",
+            "Adjustable Coffee Dosage?": "Yes",
+            "Digital Display?": "Yes",
+            "Clock/Timer?": "Yes",
+            "Coffee Dosage Quantity": "7-10.5",
+            "Cup Volume Control?": "Yes",
+            "Aroma/Flow Control?": "Yes",
+            "Auto Shut Off?": "Yes",
+            "Bypass Doser?": "Yes",
+            "Pre-Infusion?": "Yes",
+            "Low Water Warning?": "Yes",
+            "Energy Savings?": "Yes",
+            "Decalcification Warning Indicator?": "Yes",
+            "Multiple Programmabibility?": "Yes",
+            "Pressure Gauges?": "No",
+            "Brew Temperature Display?": "No"
+        }
+    },
+    "latteRewardsAmount": "$31.98"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

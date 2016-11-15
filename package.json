@@ -1,0 +1,27 @@
+{
+  "name": "Gaggia_Accademia",
+  "description": "A short, fun developer exercise for the consideration of the team at Whole Latte Love",
+  "version": "0.0.1",
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://www.github.com/jvanstry/gaggia_accademia.git"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "devDependencies": {
+    "browser-sync": "^2.17.6",
+    "gulp-jasmine-browser": "^1.7.1",
+    "gulp-less": "^3.3.0",
+    "gulp-util": "^3.0.7",
+    "phantomjs-prebuilt": "^2.1.13"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

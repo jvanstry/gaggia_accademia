@@ -1,18 +1,27 @@
 {
     "productName": "Gaggia Accademia Espresso Machine",
     "imagesLocation": "Gaggia_Accademia",
+    "images": ["Accademia_Web_Main.jpg", "Gaggia_Accademia_Espresso_Machine_right.jpg", "Gaggia_Accademia_Espresso_Machine_left.jpg", "Gaggia_Accademia_Espresso_Machine_center.jpg", "Accademia_Water_Resivoir_Hand_IMG_0109.jpg", "brandLogo.png"],
     "brand": "Gaggia",
     "rating": {
         "value": 5,
         "numberReviews": 72
     },
     "breadCrumbParents": ["Home", "Espresso Machines", "Super Automatic"],
-    "price": "$1,599.00",
+    "prices": {
+        "sale": 1599,
+        "normal": 2999,
+        "isOnSale": true 
+    },
+    "packageIncludes": {
+        "Manufacturer 1-Year Warranty": 0,
+        "Extended 1­-Year Warranty": 89
+    },
     "relatedProducts": ["Saeco Exprelia Evo Super-Automatic Espresso Machine", "Gaggia Anima Prestige Super-Automatic Espresso Machine",
       "Saeco Gran Baristo Super-Automatic Espresso Machine", "Delonghi Gran Dama ESAM 6620 Espresso Machine",
       "Jura Impressa C9 One Touch", "Jura Impressa J9 One Touch TFT in Brilliant Silver"],
     "overview": {
-       "Product Description": "Coffee on demand has never been easier. With the Gaggia Accademia, seven dedicated drink buttons for espresso, caffe, caffe lungo, cappuccino, latte macchiato, and hot water mean that great tasting beverages are just moments away. The machine can also memorize your preferences for truly customized drinks.\nThis one-stop coffee center features an integrated ceramic burr grinder to deliver freshly ground coffee every time. The Accademia also comes equipped with a bypass doser, so you’ll be able to effortlessly brew pre-ground or brew decaf, pre-ground, or specialty coffee. The grinder and bypass doser combo will give you the flexibility needed to accommodate multiple users and a variety of drink preferences.\nThe smartly designed Accademia is a latte and cappuccino drinker’s dream, as it features a unique Milk Management System with a detachable carafe. Since the milk circuit is detachable, milk never actually enters the Accademia during the steaming/frothing process. You’ll never have to worry about old milk contaminating your machine. As a matter of convenience, the milk carafe can be disconnected and stored in the fridge until you’re ready to brew.\nFor those who love to entertain, the Gaggia Accademia’s intuitive interface offers a big advantage; it’s so simple to use your guests can make their own beverages! On top of its impressive features, the Gaggia Accademia is a modern, attractive machine that would look great in any kitchen. It features a contemporary stainless steel front panel punctuated by a bright display and intuitive push-button controls. The Gaggia Accademia is the ideal companion for the busy coffee lover. (Dimensions: 15.2\"H x 11\"W x 16.8\"D - Weight: 45lbs.)",
+        "Product Description": "Coffee on demand has never been easier. With the Gaggia Accademia, seven dedicated drink buttons for espresso, caffe, caffe lungo, cappuccino, latte macchiato, and hot water mean that great tasting beverages are just moments away. The machine can also memorize your preferences for truly customized drinks.\nThis one-stop coffee center features an integrated ceramic burr grinder to deliver freshly ground coffee every time. The Accademia also comes equipped with a bypass doser, so you’ll be able to effortlessly brew pre-ground or brew decaf, pre-ground, or specialty coffee. The grinder and bypass doser combo will give you the flexibility needed to accommodate multiple users and a variety of drink preferences.\nThe smartly designed Accademia is a latte and cappuccino drinker’s dream, as it features a unique Milk Management System with a detachable carafe. Since the milk circuit is detachable, milk never actually enters the Accademia during the steaming/frothing process. You’ll never have to worry about old milk contaminating your machine. As a matter of convenience, the milk carafe can be disconnected and stored in the fridge until you’re ready to brew.\nFor those who love to entertain, the Gaggia Accademia’s intuitive interface offers a big advantage; it’s so simple to use your guests can make their own beverages! On top of its impressive features, the Gaggia Accademia is a modern, attractive machine that would look great in any kitchen. It features a contemporary stainless steel front panel punctuated by a bright display and intuitive push-button controls. The Gaggia Accademia is the ideal companion for the busy coffee lover. (Dimensions: 15.2\"H x 11\"W x 16.8\"D - Weight: 45lbs.)",
         "Programmable Options": "The Gaggia Accademia has seven fully programmable drink options to deliver tailor-made espresso, caffe, caffe lungo, cappuccino, latte macchiato, and more. Beverage temperature, strength, and volume can be preset to your specifications. The same goes for milk selections, which allow you to choose from minimal, normal, or no froth options.",
         "Brewing Benefits": "The Accademia has a 15-bar pump and two powerful stainless steel boilers, which will let you to alternate between brewing and frothing without any down time. Additionally, Gaggia’s unique pre-brewing cycle infuses coffee grounds with hot water to help extract the flavor and aroma of your drink. The brew group is detachable for quick, easy cleaning and maintenance. The Accademia has a height-adjustable telescopic coffee dispenser, with a max height of 6.5” to allow you to accommodate a variety of cups, mugs, and glasses.",
         "Grinder and Bypass Doser": "This unit has a heavy-duty ceramic burr grinder, along with a double-lid, aroma saving bean hopper. Seven grind settings allow you to exercise a fair amount of control over the grinding process. The Accademia also has a bypass doser to cater to pre-ground/decaf drinkers. Both the grinder and bypass doser are accessible through the top of the machine.",
@@ -106,6 +115,9 @@
             "Multiple Programmabibility?": "Yes",
             "Pressure Gauges?": "No",
             "Brew Temperature Display?": "No"
+        }, 
+        "Et Cetera": {
+            "There are lots of Specs": "Truncating here"
         }
     },
     "latteRewardsAmount": "$31.98"

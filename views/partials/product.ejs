@@ -1,0 +1,120 @@
+<div id="breadCrumbs">
+    <% for (var i = 0; i < productData.breadCrumbParents.length - 1 ; i++ ){ %>
+        <span>
+            <a class="dead-link" href="#">
+                <%= productData.breadCrumbParents[i] %>
+            </a>
+            <i class="fa fa-angle-right" aria-hidden="true"></i>
+        </span>
+    <% } %>
+    <span>
+        <a class="dead-link" href="#">
+            <%= productData.breadCrumbParents[productData.breadCrumbParents.length - 1] %>
+        </a>
+    </span>
+</div>
+<div class="container" id="product">
+    <div id="left-col">
+        <img id="main-image" src="images/<%= productData.imagesLocation + '/' + productData.images[0] %>" />
+        <div id="rating">
+            <h3>Rating and Reviews</h3>
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <span>
+                <%= productData.rating.value %> stars based on 
+                <span class="jumpto-reviews jumpto">
+                    <%= productData.rating.numberReviews %> reviews
+                </span>
+            </span>
+        </div>
+        <div id="latte-rewards">
+            <h3>
+                Latte Rewards
+            </h3>
+            <span>
+                This product will earn you <%= productData.latteRewardsAmount %> in rewards!
+            </span>
+        </div>
+        <div id="share-product">
+            <h3>
+                Share Product
+            </h3>
+            <% include social-icons %>
+        </div>
+    </div>
+    <div id="mid-col">
+        <ul>
+            <% for (var i = 1; i < productData.images.length; i++) { %>
+                <li>
+                    <a class="dead-link" href="#">
+                        <img class="product-thumbnail" src="images/<%= productData.imagesLocation + '/' + productData.images[i] %>" />
+                    </a>
+                </li>
+            <% } %>
+        </ul>
+    </div>
+    <div id="right-col">
+        <div id="pertinents">
+            <h3><%= productData.brand %></h3>
+            <h1><%= productData.productName %></h1>
+            <h2>
+                <% if (productData.prices.isOnSale) { %>
+                    <span class="strike-through">
+                        <%= "$" + productData.prices.normal %>
+                    </span>
+                    <span class="on-sale">
+                        <%= "$" + productData.prices.sale %>
+                    </span>
+                <% }else{ %>
+                    <%= "$" + productData.prices.normal %>
+                <% } %>
+            </h2>
+        </div>
+        <p id="abbreviated-description">
+            <%= abbreviatedDescription %>
+            <a class="jumpto-desc jumpto" href="#">
+                <b>Jump To Full Description</b>
+            </a>
+        </p>
+        <div id="product-actions">
+            <input id="quantity" type="number" placeholder="1">
+            <span>Add to Cart</span>
+            <span>Compare</span>
+            <span>Add to Wishlist</span>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -152,6 +152,8 @@ a {
 }
 #product-actions span:hover {
   cursor: pointer;
+  background-color: #077c3c;
+  color: white;
 }
 #quantity {
   border-radius: 5px;

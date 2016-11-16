@@ -6,7 +6,7 @@ var productData = JSON.parse(fs.readFileSync('data.json', 'utf8'));
 
 var express = require('express');
 var app = express();
-var port = process.env.port || 8080;
+var port = process.env.PORT || 8080;
 
 app.set('view engine', 'ejs');
 app.use(express.static(applicationRoot + '/public'));

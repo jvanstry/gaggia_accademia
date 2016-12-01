@@ -1,5 +1,4 @@
 var applicationRoot = __dirname;
-var path = require('path');
 var fs = require('fs');
 
 var productData = JSON.parse(fs.readFileSync('data.json', 'utf8'));
